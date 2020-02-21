@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### School Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bete Noir](/sample_page)
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1">
+</iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
