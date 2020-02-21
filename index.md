@@ -9,7 +9,8 @@
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/nDjEQQoDq3A">
 </iframe>
- <a href="demo/beteNoireDemo.zip">Beten Noire Demo Here</a>
+<a href="demo/beteNoireDemo.zip">Beten Noire Demo Here</a>
+<br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
