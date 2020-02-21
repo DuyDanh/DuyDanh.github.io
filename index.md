@@ -5,6 +5,7 @@
 ### School Projects
 
 [Bete Noire](/sample_page)
+<p>This was the first game that I developed with a team using<br> the MonoGame framework. I was responsible for art designs, animations,<br> background-moving parallax, and game state machines.</p>
 <img src="images/gameplay2.jpg"/>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/nDjEQQoDq3A">
