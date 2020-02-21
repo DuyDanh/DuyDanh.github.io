@@ -6,7 +6,7 @@
 
 [Bete Noir](/sample_page)
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1">
+src="https://www.youtube.com/watch?v=nDjEQQoDq3A">
 </iframe>
 
 ---
