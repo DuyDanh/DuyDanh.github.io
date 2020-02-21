@@ -4,7 +4,12 @@
 
 ### School Projects
 
-[Bete Noir](/sample_page)
+[Bete Noire](/sample_page)
+<img src="images/instruction.jpg"/>
+<img src="images/instruction2.jpg"/>
+<img src="images/gameplay.jpg"/>
+<img src="images/gameplay2.jpg"/>
+<img src="images/endscreen.jpg"/>
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=nDjEQQoDq3A">
 </iframe>
