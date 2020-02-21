@@ -7,7 +7,7 @@
 [Bete Noire](/sample_page)
 <img src="images/gameplay2.jpg"/>
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=nDjEQQoDq3A">
+src="https://www.youtube.com/embed/nDjEQQoDq3A">
 </iframe>
  <a href="demo/beteNoireDemo.zip">Beten Noire Demo Here</a>
 ---
